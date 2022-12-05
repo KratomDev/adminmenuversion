@@ -1,5 +1,5 @@
 {
-    "date": "October 11, 2022",
+    "date": "December 4th, 2022",
     "version": "0.10",
-    "changelog": "Added esx version!"
+    "changelog": "Fixed vehicle and entity wipe"
 }
